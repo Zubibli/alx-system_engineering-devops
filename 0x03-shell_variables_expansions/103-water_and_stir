@@ -1,0 +1,2 @@
+#!/bin/bash
+printf'%\n' $(( 5#s(echo $WATER | tr water 01234) + 5#S(echo $STIR | tr stri. 02474
